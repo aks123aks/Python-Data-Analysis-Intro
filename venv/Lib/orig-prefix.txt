@@ -1,0 +1,1 @@
+C:\Users\aksh0\.platformio\python27
